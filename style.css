@@ -26,3 +26,12 @@ li{
 .button{
     background-color: var(--primary-color);
 }
+.last-tag{
+    background-color: var(--secondary-color);
+    padding: 40px;
+}
+
+.last-tag p{
+    color: var(--button-color);
+    text-align: center;
+}
